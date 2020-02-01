@@ -1,7 +1,3 @@
-# Sqlalchemy Challenge
-## GT Bootcamp SQL Alchemy Homework
-
-
 # SQLAlchemy Homework - Surfs Up!
 
 ## Step 1 - Climate Analysis and Exploration
